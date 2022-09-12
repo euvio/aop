@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\FodySugar.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\MethodBoundaryAspect.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\bin\Debug\FodySugar.pdb
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\obj\Debug\Client.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\Client\obj\Debug\Client.pdb

@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.6.11\bin.Release\net472\PostSharp.Compiler.Engine.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\PostSharp\postsharp.config

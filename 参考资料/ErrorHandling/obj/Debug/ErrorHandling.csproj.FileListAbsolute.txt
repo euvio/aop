@@ -1,0 +1,249 @@
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorReminderWindow.g.cs
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\PostSharp.dll
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorReminderWindow.baml
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+D:\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\byd\ErrorHandling\bin\Debug\PostSharp.dll
+D:\byd\ErrorHandling\bin\Debug\NLog.dll
+D:\byd\ErrorHandling\bin\Debug\PostSharp.xml
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+D:\byd\ErrorHandling\obj\Debug\ErrorReminderWindow.g.cs
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\byd\ErrorHandling\obj\Debug\ErrorReminderWindow.baml
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\byd\ErrorHandling\obj\Debug\PostSharp\touch
+D:\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CopyComplete
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\MachineState.dll
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\MachineState.pdb
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\PostSharp.xml
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\touch
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+C:\Users\cygia\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\Logger.dll
+C:\Users\cygia\Desktop\byd\ErrorHandling\bin\Debug\NLog.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\share\backup\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\share\backup\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\share\backup\byd\ErrorHandling\bin\Debug\MachineState.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\PostSharp.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\MachineState.pdb
+D:\share\backup\byd\ErrorHandling\bin\Debug\PostSharp.xml
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\share\backup\byd\ErrorHandling\obj\Debug\PostSharp\touch
+D:\share\backup\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\share\backup\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+D:\byd\ErrorHandling\bin\Debug\MachineState.dll
+D:\byd\ErrorHandling\bin\Debug\MachineState.pdb
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+D:\share\backup\byd\ErrorHandling\obj\Debug\ErrorWindow.baml
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\MachineState.dll
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\PostSharp.dll
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\MachineState.pdb
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\PostSharp.xml
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorWindow.baml
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\PostSharp\touch
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\share\backup\byd - 副本\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+D:\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\byd - 副本\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\byd - 副本\ErrorHandling\bin\Debug\MachineState.dll
+D:\byd - 副本\ErrorHandling\bin\Debug\PostSharp.dll
+D:\byd - 副本\ErrorHandling\bin\Debug\MachineState.pdb
+D:\byd - 副本\ErrorHandling\bin\Debug\PostSharp.xml
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorWindow.baml
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\byd - 副本\ErrorHandling\obj\Debug\PostSharp\touch
+D:\byd - 副本\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.csproj.CopyComplete
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\byd - 副本\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\byd - 副本\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+D:\share\backup\byd - 副本\ErrorHandling\bin\Debug\NLog.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\Logger.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\NLog.dll
+D:\share\backup\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\MachineState.dll
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\PostSharp.dll
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\MachineState.pdb
+D:\share\backup\byd-开发版\ErrorHandling\bin\Debug\PostSharp.xml
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorWindow.baml
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\PostSharp\touch
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\share\backup\byd-开发版\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+C:\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+C:\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+C:\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+C:\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+C:\byd\ErrorHandling\bin\Debug\Logger.dll
+C:\byd\ErrorHandling\bin\Debug\MachineState.dll
+C:\byd\ErrorHandling\bin\Debug\PostSharp.dll
+C:\byd\ErrorHandling\bin\Debug\NLog.dll
+C:\byd\ErrorHandling\bin\Debug\MachineState.pdb
+C:\byd\ErrorHandling\bin\Debug\PostSharp.xml
+C:\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+C:\byd\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+C:\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+C:\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+C:\byd\ErrorHandling\obj\Debug\ErrorWindow.baml
+C:\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+C:\byd\ErrorHandling\obj\Debug\PostSharp\touch
+C:\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+C:\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+C:\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+C:\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\Logger.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\MachineState.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\PostSharp.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\Utility.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\NLog.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\MachineState.pdb
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\PostSharp.xml
+D:\share\李留威\代码\byd\ErrorHandling\bin\Debug\Utility.pdb
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorWindow.baml
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\PostSharp\touch
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CopyComplete
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\share\李留威\代码\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+D:\share\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+D:\share\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+D:\share\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+D:\share\代码\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\Logger.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\MachineState.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\PostSharp.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\Utility.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\NLog.dll
+D:\share\代码\byd\ErrorHandling\bin\Debug\MachineState.pdb
+D:\share\代码\byd\ErrorHandling\bin\Debug\PostSharp.xml
+D:\share\代码\byd\ErrorHandling\bin\Debug\Utility.pdb
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorWindow.baml
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\share\代码\byd\ErrorHandling\obj\Debug\PostSharp\touch
+D:\share\代码\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CopyComplete
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+D:\share\代码\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+D:\share\代码\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\Logger.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\MachineState.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\PostSharp.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\Utility.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\NLog.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\MachineState.pdb
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\PostSharp.xml
+C:\Users\ABC\Desktop\byd\ErrorHandling\bin\Debug\Utility.pdb
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorWindow.baml
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\touch
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CopyComplete
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+C:\Users\ABC\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorWindow.g.cs
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.cache
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling_MarkupCompile.lref
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorWindow.baml
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.g.resources
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pssym
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pspdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\CsvHelper.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\Logger.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\MachineState.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\PostSharp.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\Utility.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\NLog.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\MachineState.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\PostSharp.xml
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Debug\Utility.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\touch
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\dependencies.txt
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.csproj.CopyComplete
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\ErrorHandling.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Debug\PostSharp\postsharp.app.config

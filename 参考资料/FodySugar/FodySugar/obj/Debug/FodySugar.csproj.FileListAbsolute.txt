@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\bin\Debug\FodySugar.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\bin\Debug\FodySugar.pdb
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\bin\Debug\MethodBoundaryAspect.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\obj\Debug\FodySugar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\obj\Debug\FodySugar.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\obj\Debug\FodySugar.csproj.CopyComplete
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\obj\Debug\FodySugar.dll
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\obj\Debug\FodySugar.pdb
+C:\Users\Administrator\Desktop\gitHub\AOP\FodySugar\FodySugar\obj\Debug\FodySugar.csprojAssemblyReference.cache

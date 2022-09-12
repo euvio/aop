@@ -1,0 +1,289 @@
+D:\share\backup\byd\ErrorHandling\obj\Release\ErrorHandling.csprojResolveAssemblyReference.cache
+D:\share\backup\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\share\backup\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\share\backup\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+C:\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+C:\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+C:\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+C:\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+C:\byd\ErrorHandling\bin\Release\CsvHelper.dll
+C:\byd\ErrorHandling\bin\Release\Logger.dll
+C:\byd\ErrorHandling\bin\Release\MachineState.dll
+C:\byd\ErrorHandling\bin\Release\PostSharp.dll
+C:\byd\ErrorHandling\bin\Release\NLog.dll
+C:\byd\ErrorHandling\bin\Release\MachineState.pdb
+C:\byd\ErrorHandling\bin\Release\PostSharp.xml
+C:\byd\ErrorHandling\obj\Release\ErrorHandling.csprojResolveAssemblyReference.cache
+C:\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+C:\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+C:\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+C:\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+C:\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+C:\byd\ErrorHandling\obj\Release\PostSharp\touch
+C:\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+C:\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+C:\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+C:\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+D:\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+D:\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+D:\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+D:\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+D:\byd\ErrorHandling\bin\Release\CsvHelper.dll
+D:\byd\ErrorHandling\bin\Release\Logger.dll
+D:\byd\ErrorHandling\bin\Release\MachineState.dll
+D:\byd\ErrorHandling\bin\Release\PostSharp.dll
+D:\byd\ErrorHandling\bin\Release\NLog.dll
+D:\byd\ErrorHandling\bin\Release\MachineState.pdb
+D:\byd\ErrorHandling\bin\Release\PostSharp.xml
+D:\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+D:\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+D:\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+D:\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+D:\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\byd\ErrorHandling\obj\Release\PostSharp\touch
+D:\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+D:\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+D:\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+D:\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+D:\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+D:\终检机一代\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+D:\终检机一代\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+D:\终检机一代\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+D:\终检机一代\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+D:\终检机一代\byd\ErrorHandling\bin\Release\CsvHelper.dll
+D:\终检机一代\byd\ErrorHandling\bin\Release\Logger.dll
+D:\终检机一代\byd\ErrorHandling\bin\Release\MachineState.dll
+D:\终检机一代\byd\ErrorHandling\bin\Release\PostSharp.dll
+D:\终检机一代\byd\ErrorHandling\bin\Release\NLog.dll
+D:\终检机一代\byd\ErrorHandling\bin\Release\MachineState.pdb
+D:\终检机一代\byd\ErrorHandling\bin\Release\PostSharp.xml
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\终检机一代\byd\ErrorHandling\obj\Release\PostSharp\touch
+D:\终检机一代\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+D:\终检机一代\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+D:\终检机一代\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\CsvHelper.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\Logger.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\MachineState.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\PostSharp.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\NLog.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\MachineState.pdb
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\PostSharp.xml
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\PostSharp\touch
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\Utility.dll
+F:\公司项目\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\Utility.pdb
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\CsvHelper.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\Logger.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\MachineState.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\PostSharp.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\Utility.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\NLog.dll
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\MachineState.pdb
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\PostSharp.xml
+D:\share\李留威\代码\byd\ErrorHandling\bin\Release\Utility.pdb
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\PostSharp\touch
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+D:\share\李留威\代码\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\CsvHelper.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\Logger.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\MachineState.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\PostSharp.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\Utility.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\NLog.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\MachineState.pdb
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\PostSharp.xml
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\bin\Release\Utility.pdb
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\PostSharp\touch
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+C:\Users\Administrator\Desktop\代码\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\CsvHelper.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\Logger.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\MachineState.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\PostSharp.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\Utility.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\NLog.dll
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\MachineState.pdb
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\PostSharp.xml
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\bin\Release\Utility.pdb
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\PostSharp\touch
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+D:\FinalTestMachine_BYD_2st_Generation\代码\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\CsvHelper.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\Logger.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\MachineState.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\PostSharp.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\Utility.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\NLog.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\MachineState.pdb
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\PostSharp.xml
+C:\Users\Administrator\Desktop\byd\ErrorHandling\bin\Release\Utility.pdb
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\PostSharp\touch
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+C:\Users\Administrator\Desktop\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+D:\share\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+D:\share\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+D:\share\代码\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+D:\share\代码\byd\ErrorHandling\bin\Release\CsvHelper.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\Logger.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\MachineState.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\PostSharp.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\Utility.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\NLog.dll
+D:\share\代码\byd\ErrorHandling\bin\Release\MachineState.pdb
+D:\share\代码\byd\ErrorHandling\bin\Release\PostSharp.xml
+D:\share\代码\byd\ErrorHandling\bin\Release\Utility.pdb
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\share\代码\byd\ErrorHandling\obj\Release\PostSharp\touch
+D:\share\代码\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+D:\share\代码\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+D:\share\代码\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.pssym
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.pspdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\ErrorHandling.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\CsvHelper.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\Logger.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\MachineState.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\PostSharp.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\Utility.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\NLog.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\MachineState.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\PostSharp.xml
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\bin\Release\Utility.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorWindow.g.cs
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorWindow.baml
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.g.resources
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\PostSharp\touch
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.dll
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\ErrorHandling.pdb
+C:\Users\Liuwei Li\Desktop\byd\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\ErrorHandling.pssym
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\ErrorHandling.pspdb
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\ErrorHandling.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\ErrorHandling.pdb
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\CsvHelper.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\Logger.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\MachineState.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\PostSharp.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\Utility.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\NLog.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\MachineState.pdb
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\PostSharp.xml
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\bin\Release\Utility.pdb
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorWindow.g.cs
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorWindow.baml
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.g.resources
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\PostSharp\touch
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\PostSharp\dependencies.txt
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.csproj.CopyComplete
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.dll
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.pdb
+C:\Users\Liuwei Li\Desktop\byd-2号机\ErrorHandling\obj\Release\PostSharp\postsharp.app.config
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.csprojAssemblyReference.cache
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorWindow.g.cs
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.cache
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorHandling_MarkupCompile.lref
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorWindow.baml
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.g.resources
+D:\byd-2号机\ErrorHandling\obj\Release\ErrorHandling.csproj.CoreCompileInputs.cache
